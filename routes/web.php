@@ -13,6 +13,9 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
+Route::group(['middleware' => 'locale'], function() {
+    Route::get('change-language/{language}', 'ChangeLanguageController@changeLanguage')
+        ->name('user.change-language');
 });
+
+Route::resource('tasks', 'TaskController');

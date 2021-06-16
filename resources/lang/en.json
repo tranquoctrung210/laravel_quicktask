@@ -1,0 +1,14 @@
+{
+    "test" : "Welcome to Website!",
+    "title" : "Laravel Quickstart - Basic",
+    "btnSubmit" : "Submit",
+    "task" : "Task Name",
+    "listTasks": "List tasks",
+    "action" : "Action",
+    "delete" : "Delete",
+    "add" : "Add",
+    "Vietnamese" : "Vietnamese",
+    "English" : "English",
+    "success" : "successfully !",
+    "failed" : "failed !"
+}
