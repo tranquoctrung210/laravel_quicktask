@@ -2,5 +2,9 @@
     "test" : "Welcome to Website!",
     "title" : "Laravel Quickstart - Basic",
     "btnSubmit" : "Submit",
-    "task" : "Tasks"
+    "task" : "Task Name",
+    "listTasks": "List tasks",
+    "action" : "Action",
+    "delete" : "Delete"
+
 }
