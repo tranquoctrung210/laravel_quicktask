@@ -1,0 +1,14 @@
+{
+    "test" : "Xin Chao!",
+    "title" : "Laravel Quickstart - Cơ bản",
+    "btnSubmit" : "Xác Nhận",
+    "task" : "Tên Công Việc",
+    "listTasks": "Danh sách công việc",
+    "action" : "Hành Động",
+    "delete" : "Xóa",
+    "add" : "Thêm",
+    "Vietnamese" : "Tiếng Việt",
+    "English" : "Tiếng Anh",
+    "success" : "thành công !",
+    "failed" : "thất bại !"
+}
